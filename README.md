@@ -1,4 +1,3 @@
-#Singleton
+#RunTime
 
-######说明
-这是一个关于单例的示例，用单例实现了页面内加载的动效。效果如下：<img src="Singleton/Images/Example.gif" width=450/>
+###### 这是一个关于runtime基础部分的示例demo，具体信息可前往简书：http://www.jianshu.com/u/9d8c8692519b
